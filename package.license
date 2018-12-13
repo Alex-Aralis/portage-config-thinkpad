@@ -1,0 +1,6 @@
+# required by media-sound/bluez-alsa-1.2.0::gentoo[aac]
+# required by bluez-alsa (argument)
+>=media-libs/fdk-aac-0.1.5 FraunhoferFDK
+# required by www-client/chromium-64.0.3282.186::gentoo[widevine]
+# required by www-client/chromium (argument)
+>=www-plugins/chrome-binary-plugins-65.0.3325.106_beta:beta google-chrome

@@ -1,0 +1,5 @@
+www-client/firefox pgo rust system-sqlite system-libvpx system-libevent system-jpeg system-harfbuzz custom-cflags
+media-libs/libvpx postproc
+dev-db/sqlite secure-delete
+x11-base/xorg-server xvfb
+sys-libs/binutils-libs multitarget
