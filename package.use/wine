@@ -1,3 +1,4 @@
+virtual/wine staging
 # required by media-libs/libsdl2-2.0.9::gentoo[X]
 # required by app-emulation/wine-vanilla-3.21::gentoo[sdl]
 # required by virtual/wine-0-r6::gentoo
@@ -405,3 +406,4 @@
 # required by virtual/wine-0-r6::gentoo
 # required by wine (argument)
 >=x11-base/xcb-proto-1.13 abi_x86_32
+
