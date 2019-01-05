@@ -1,1 +1,2 @@
 net-libs/nodejs inspector
+www-client/chromium -suid jumbo-build hangouts system-ffmpeg system-icu system-libvpx
